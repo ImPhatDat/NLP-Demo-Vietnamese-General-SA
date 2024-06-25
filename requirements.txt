@@ -4,3 +4,5 @@ transformers
 streamlit
 pydantic
 fastapi
+scikit-learn
+nltk
