@@ -1,0 +1,6 @@
+tensorflow-gpu
+tf-keras
+transformers
+streamlit
+pydantic
+fastapi
